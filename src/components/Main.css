@@ -1,9 +1,12 @@
 .center {
+  /* border around the main text fields in the body. CSS use will be determined at later date/time.
+
   margin: auto;
   width: 60%;
   border: 5px solid #000000;
   padding: 20px;
   color: #000000;
+  */
   font: 15pt Arial, Helvetica, sans-serif;
   font-weight: bold;
   line-height: 1.6em;

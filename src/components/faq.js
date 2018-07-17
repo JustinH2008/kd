@@ -1,12 +1,12 @@
 import React from 'react'
 import './Main.css'
 
-function contactUs() {
+function faq() {
   return (
     <div className= "center">
-      This is the Contact Us page.
+      This is the frequently asked questions page.
   </div>
   )
 }
 
-export default contactUs
+export default faq

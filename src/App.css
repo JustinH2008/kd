@@ -1,7 +1,6 @@
 .App {
   text-align: center;
   background-color: #bbbbbb;
-  color: #00bbbb;
   font-weight: bolder;
   font-size: 15pt;
 }
@@ -47,6 +46,8 @@ a:hover::before{
   width: 100%;
 }
 
+/* Unused
+
 .App-header {
   background-color: #222;
   height: 150px;
@@ -80,3 +81,5 @@ a:hover::before{
   margin: 0 auto;
   float: right;
 }
+
+*/

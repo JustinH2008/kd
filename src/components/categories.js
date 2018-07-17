@@ -1,12 +1,12 @@
 import React from 'react'
 import './Main.css'
 
-function contactUs() {
+function categories() {
   return (
     <div className= "center">
-      This is the Contact Us page.
+      This is the categories page.
   </div>
   )
 }
 
-export default contactUs
+export default categories
